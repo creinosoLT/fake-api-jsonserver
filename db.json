@@ -1,0 +1,52 @@
+{
+    "shipments": [
+        {
+            "id": "001",
+            "cDate": "Jan 09 2020",
+            "owner": "Tony",
+            "pReference": "A001",
+            "carrier": "LATAM",
+            "status": "Delivered"
+        },
+        {
+            "id": "002",
+            "cDate": "Feb 07 2019",
+            "owner": "Steve",
+            "pReference": "A002",
+            "carrier": "LATAM",
+            "status": "In Transit"
+        },
+        {
+            "id": "003",
+            "cDate": "Jan 24 2019",
+            "owner": "Clint",
+            "pReference": "A003",
+            "carrier": "EMIRATES",
+            "status": "Delivered"
+        },
+        {
+            "id": "004",
+            "cDate": "Mar 23 2019",
+            "owner": "Tony",
+            "pReference": "A004",
+            "carrier": "LATAM",
+            "status": "Ready to Extract"
+        },
+        {
+            "id": "005",
+            "cDate": "Jan 30 2010",
+            "owner": "Pots",
+            "pReference": "A005",
+            "carrier": "EMIRATES",
+            "status": "Delivered"
+        },
+        {
+            "id": "006",
+            "cDate": "Dec 31 2019",
+            "owner": "Clint",
+            "pReference": "A006",
+            "carrier": "LATAM",
+            "status": "Delivered"
+        }
+    ]
+}
