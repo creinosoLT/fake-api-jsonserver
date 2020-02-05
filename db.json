@@ -56,5 +56,860 @@
       "carrier": "LATAM",
       "status": "Delivered"
     }
-  ]
+  ],
+"quotes":[
+  {
+    "id": 1,
+    "dateCreate": "01/20/2020",
+    "datePickup": "01/20/2020 01:56 pm",
+    "fromPlace": "Jacksonville",
+    "fromState": "FL",
+    "fromZip": "32205",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36651,
+    "qouteId": "39283486",
+    "companyContract": "4S graphics Inc",
+    "carrierName": "YRC Freight (s)",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZpWl9xyOqGA/company-logo_200_200/0?e=2159024400&v=beta&t=_oVHJlvo8c8XlBM8XRTeNu4DgtpFyT47iCJycrOiODw",
+    "scac": "RDWY",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 1,
+    "className": 100,
+    "pieces": 1,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "800 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Residential Delivery",
+      "Hazardous Material"
+    ],
+    "priceDetail": [
+      {
+        "name": "Billed wght minus actual",
+        "carrier": 454.06,
+        "customer": 454.06
+      },
+      {
+        "name": "Billed as weight see code def",
+        "carrier": 0,
+        "customer": 0
+      },
+      {
+        "name": "Guaranteed standard",
+        "carrier": 34.51,
+        "customer": 34.51
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "dateCreate": "01/15/2020",
+    "datePickup": "01/23/2020 10:30 am",
+    "fromPlace": "Coral Gables",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Slaughter",
+    "toState": "LA",
+    "toZip": "70777",
+    "serialQuote": 36439,
+    "qouteId": "CXAPA2RC2",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "SOUTHEASTERN FREIGHT LINES",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjlUEV3maXZBmUMFLcaG2o-OzfGJqAiSX8CuBB_fCdpBAjinV5Q&s",
+    "scac": "SEFL",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 2,
+    "className": 100,
+    "pieces": 10,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "496 lb",
+    "transitDays": 2,
+    "status": "Pending",
+    "accesorials": [],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 130.63,
+        "customer": 161.98
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 23.25,
+        "customer": 28.83
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "dateCreate": "12/17/2019",
+    "datePickup": "12/17/2019 01:53 pm",
+    "fromPlace": "Tampa",
+    "fromState": "FL",
+    "fromZip": "33619",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36289,
+    "qouteId": "33488256",
+    "companyContract": "Nupress",
+    "carrierName": "Averit Express",
+    "img": "https://media-exp1.licdn.com/dms/image/C560BAQHTTAIYH0gRcw/company-logo_200_200/0?e=2159024400&v=beta&t=853z1CxEVMJwZrkCG97rvpKE35M-Y19cVLSOct29bwk",
+    "scac": "AVRT",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 1,
+    "className": 125,
+    "pieces": 1,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "500 lb",
+    "transitDays": 2,
+    "status": "Expired",
+    "accesorials": [
+      "Limited Acces Deliveries"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 285.64,
+        "customer": 357.05
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 65.13,
+        "customer": 81.41
+      },
+      {
+        "name": "Charge for Non Comercial",
+        "carrier": 85,
+        "customer": 85
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "dateCreate": "10/21/2019",
+    "datePickup": "10/21/2019 01:45 pm",
+    "fromPlace": "Miami",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Miami",
+    "toState": "FL",
+    "toZip": "33102",
+    "serialQuote": 35020,
+    "qouteId": "091210847",
+    "companyContract": "Smith Transportation",
+    "carrierName": "UPS Freight (s)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eUXMWjO5h9apQNfv0fKeNTkjM6rQF307y83J9GTPcI4pyv2m&s",
+    "scac": "UPGF",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 4,
+    "className": 100,
+    "pieces": 1,
+    "loadingType": "Type Box",
+    "dimensions": "48x40x60",
+    "weight": "300 lb",
+    "transitDays": 1,
+    "status": "Expired",
+    "accesorials": [
+      "Liftgate Pickup",
+      "Liftgate Delivery"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul + Fuel Surcharge",
+        "carrier": 158.27,
+        "customer": 197.84
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "dateCreate": "10/08/19",
+    "datePickup": "10/08/19 3:22 pm",
+    "fromPlace": "Fleming Island",
+    "fromState": "FL",
+    "fromZip": "32003",
+    "toPlace": "New York",
+    "toState": "NY",
+    "toZip": "10005",
+    "serialQuote": 34346,
+    "qouteId": "39283486",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "Estes express Lines",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6A-Q6kEpn9XDi93VFRlEOMHQE-GOYBrSilHs2n33hZ4x9GYs5w&s",
+    "scac": "EXLA",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 2,
+    "className": 100,
+    "pieces": 90,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "50 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Liftgate Pickup"
+    ],
+    "priceDetail": [
+      {
+        "name": "Charge for: Lift-Gate Service (Pickup)",
+        "carrier": 40,
+        "customer": 49.6
+      },
+      {
+        "name": "Charge for: Fuel Surcharge",
+        "carrier": 29.28,
+        "customer": 36.31
+      },
+      {
+        "name": "Total Line Haul",
+        "carrier": 122,
+        "customer": 151.28
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "dateCreate": "01/21/2020",
+    "datePickup": "01/21/2020 01:56 pm",
+    "fromPlace": "Jacksonville",
+    "fromState": "FL",
+    "fromZip": "32206",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36652,
+    "qouteId": "39283487",
+    "companyContract": "4S graphics Inc",
+    "carrierName": "YRC Freight (s)",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZpWl9xyOqGA/company-logo_200_200/0?e=2159024400&v=beta&t=_oVHJlvo8c8XlBM8XRTeNu4DgtpFyT47iCJycrOiODw",
+    "scac": "RDWY",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 1,
+    "className": 150,
+    "pieces": 1,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "300 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Residential Delivery",
+      "Hazardous Material"
+    ],
+    "priceDetail": [
+      {
+        "name": "Billed wght minus actual",
+        "carrier": 454.06,
+        "customer": 454.06
+      },
+      {
+        "name": "Billed as weight see code def",
+        "carrier": 10,
+        "customer": 10
+      },
+      {
+        "name": "Guaranteed standard",
+        "carrier": 34.51,
+        "customer": 34.51
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "dateCreate": "01/18/2020",
+    "datePickup": "01/25/2020 10:30 am",
+    "fromPlace": "Coral Gables",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Slaughter",
+    "toState": "LA",
+    "toZip": "70777",
+    "serialQuote": 3643,
+    "qouteId": "CXAPA2RC4",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "SOUTHEASTERN FREIGHT LINES",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjlUEV3maXZBmUMFLcaG2o-OzfGJqAiSX8CuBB_fCdpBAjinV5Q&s",
+    "scac": "SEFL",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 6,
+    "className": 150,
+    "pieces": 5,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "650 lb",
+    "transitDays": 3,
+    "status": "Approved",
+    "accesorials": [],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 130.63,
+        "customer": 161.98
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 23.25,
+        "customer": 28.83
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "dateCreate": "12/15/2019",
+    "datePickup": "12/15/2019 01:53 pm",
+    "fromPlace": "Tampa",
+    "fromState": "FL",
+    "fromZip": "33619",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36283,
+    "qouteId": "33488254",
+    "companyContract": "Nupress",
+    "carrierName": "Averit Express",
+    "img": "https://media-exp1.licdn.com/dms/image/C560BAQHTTAIYH0gRcw/company-logo_200_200/0?e=2159024400&v=beta&t=853z1CxEVMJwZrkCG97rvpKE35M-Y19cVLSOct29bwk",
+    "scac": "AVRT",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 6,
+    "className": 125,
+    "pieces": 4,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "700 lb",
+    "transitDays": 2,
+    "status": "Expired",
+    "accesorials": [
+      "Limited Acces Deliveries"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 285.64,
+        "customer": 357.05
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 65.13,
+        "customer": 81.41
+      },
+      {
+        "name": "Charge for Non Comercial",
+        "carrier": 85,
+        "customer": 85
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "dateCreate": "10/14/2019",
+    "datePickup": "10/17/2019 01:45 pm",
+    "fromPlace": "Miami",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Miami",
+    "toState": "FL",
+    "toZip": "33102",
+    "serialQuote": 35022,
+    "qouteId": "091210848",
+    "companyContract": "Smith Transportation",
+    "carrierName": "UPS Freight (s)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eUXMWjO5h9apQNfv0fKeNTkjM6rQF307y83J9GTPcI4pyv2m&s",
+    "scac": "UPGF",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 6,
+    "className": 110,
+    "pieces": 2,
+    "loadingType": "Type Box",
+    "dimensions": "48x40x60",
+    "weight": "400 lb",
+    "transitDays": 2,
+    "status": "Expired",
+    "accesorials": [
+      "Liftgate Pickup",
+      "Liftgate Delivery"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul + Fuel Surcharge",
+        "carrier": 158.27,
+        "customer": 197.84
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "dateCreate": "10/07/19",
+    "datePickup": "10/07/19 3:22 pm",
+    "fromPlace": "Fleming Island",
+    "fromState": "FL",
+    "fromZip": "32003",
+    "toPlace": "New York",
+    "toState": "NY",
+    "toZip": "10005",
+    "serialQuote": 34348,
+    "qouteId": "39283487",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "Estes express Lines",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6A-Q6kEpn9XDi93VFRlEOMHQE-GOYBrSilHs2n33hZ4x9GYs5w&s",
+    "scac": "EXLA",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 10,
+    "className": 120,
+    "pieces": 10,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "500 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Liftgate Pickup"
+    ],
+    "priceDetail": [
+      {
+        "name": "Charge for: Lift-Gate Service (Pickup)",
+        "carrier": 40,
+        "customer": 49.6
+      },
+      {
+        "name": "Charge for: Fuel Surcharge",
+        "carrier": 29.28,
+        "customer": 36.31
+      },
+      {
+        "name": "Total Line Haul",
+        "carrier": 122,
+        "customer": 151.28
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "dateCreate": "01/20/2020",
+    "datePickup": "01/20/2020 01:56 pm",
+    "fromPlace": "Jacksonville",
+    "fromState": "FL",
+    "fromZip": "32205",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36651,
+    "qouteId": "39283486",
+    "companyContract": "4S graphics Inc",
+    "carrierName": "YRC Freight (s)",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZpWl9xyOqGA/company-logo_200_200/0?e=2159024400&v=beta&t=_oVHJlvo8c8XlBM8XRTeNu4DgtpFyT47iCJycrOiODw",
+    "scac": "RDWY",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 7,
+    "className": 100,
+    "pieces": 1,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "800 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Residential Delivery",
+      "Hazardous Material"
+    ],
+    "priceDetail": [
+      {
+        "name": "Billed wght minus actual",
+        "carrier": 454.06,
+        "customer": 454.06
+      },
+      {
+        "name": "Billed as weight see code def",
+        "carrier": 0,
+        "customer": 0
+      },
+      {
+        "name": "Guaranteed standard",
+        "carrier": 34.51,
+        "customer": 34.51
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "dateCreate": "01/15/2020",
+    "datePickup": "01/23/2020 10:30 am",
+    "fromPlace": "Coral Gables",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Slaughter",
+    "toState": "LA",
+    "toZip": "70777",
+    "serialQuote": 36460,
+    "qouteId": "CXAPA4RC5",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "SOUTHEASTERN FREIGHT LINES",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjlUEV3maXZBmUMFLcaG2o-OzfGJqAiSX8CuBB_fCdpBAjinV5Q&s",
+    "scac": "SEFL",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 5,
+    "className": 100,
+    "pieces": 12,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "460 lb",
+    "transitDays": 4,
+    "status": "Pending",
+    "accesorials": [],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 130.63,
+        "customer": 161.98
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 23.25,
+        "customer": 28.83
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "dateCreate": "01/16/2020",
+    "datePickup": "01/25/2020 11:30 am",
+    "fromPlace": "Coral Gables",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Slaughter",
+    "toState": "LA",
+    "toZip": "70777",
+    "serialQuote": 36439,
+    "qouteId": "CXAPA2RC2",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "SOUTHEASTERN FREIGHT LINES",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjlUEV3maXZBmUMFLcaG2o-OzfGJqAiSX8CuBB_fCdpBAjinV5Q&s",
+    "scac": "SEFL",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 3,
+    "className": 100,
+    "pieces": 10,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "496 lb",
+    "transitDays": 2,
+    "status": "Pending",
+    "accesorials": [],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 130.63,
+        "customer": 161.98
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 23.25,
+        "customer": 28.83
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "dateCreate": "10/21/2019",
+    "datePickup": "10/21/2019 01:45 pm",
+    "fromPlace": "Miami",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Miami",
+    "toState": "FL",
+    "toZip": "33102",
+    "serialQuote": 35020,
+    "qouteId": "091210847",
+    "companyContract": "Smith Transportation",
+    "carrierName": "UPS Freight (s)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eUXMWjO5h9apQNfv0fKeNTkjM6rQF307y83J9GTPcI4pyv2m&s",
+    "scac": "UPGF",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 10,
+    "className": 100,
+    "pieces": 1,
+    "loadingType": "Type Box",
+    "dimensions": "48x40x60",
+    "weight": "300 lb",
+    "transitDays": 1,
+    "status": "Expired",
+    "accesorials": [
+      "Liftgate Pickup",
+      "Liftgate Delivery"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul + Fuel Surcharge",
+        "carrier": 158.27,
+        "customer": 197.84
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "dateCreate": "10/08/19",
+    "datePickup": "10/08/19 3:22 pm",
+    "fromPlace": "Fleming Island",
+    "fromState": "FL",
+    "fromZip": "32003",
+    "toPlace": "New York",
+    "toState": "NY",
+    "toZip": "10005",
+    "serialQuote": 34346,
+    "qouteId": "39283486",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "Estes express Lines",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6A-Q6kEpn9XDi93VFRlEOMHQE-GOYBrSilHs2n33hZ4x9GYs5w&s",
+    "scac": "EXLA",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 3,
+    "className": 100,
+    "pieces": 90,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "50 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Liftgate Pickup"
+    ],
+    "priceDetail": [
+      {
+        "name": "Charge for: Lift-Gate Service (Pickup)",
+        "carrier": 40,
+        "customer": 49.6
+      },
+      {
+        "name": "Charge for: Fuel Surcharge",
+        "carrier": 29.28,
+        "customer": 36.31
+      },
+      {
+        "name": "Total Line Haul",
+        "carrier": 122,
+        "customer": 151.28
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "dateCreate": "01/21/2020",
+    "datePickup": "01/21/2020 01:56 pm",
+    "fromPlace": "Jacksonville",
+    "fromState": "FL",
+    "fromZip": "32206",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36652,
+    "qouteId": "39283487",
+    "companyContract": "4S graphics Inc",
+    "carrierName": "YRC Freight (s)",
+    "img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZpWl9xyOqGA/company-logo_200_200/0?e=2159024400&v=beta&t=_oVHJlvo8c8XlBM8XRTeNu4DgtpFyT47iCJycrOiODw",
+    "scac": "RDWY",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 2,
+    "className": 150,
+    "pieces": 1,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "300 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Residential Delivery",
+      "Hazardous Material"
+    ],
+    "priceDetail": [
+      {
+        "name": "Billed wght minus actual",
+        "carrier": 454.06,
+        "customer": 454.06
+      },
+      {
+        "name": "Billed as weight see code def",
+        "carrier": 10,
+        "customer": 10
+      },
+      {
+        "name": "Guaranteed standard",
+        "carrier": 34.51,
+        "customer": 34.51
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "dateCreate": "01/18/2020",
+    "datePickup": "01/25/2020 10:30 am",
+    "fromPlace": "Coral Gables",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Slaughter",
+    "toState": "LA",
+    "toZip": "70777",
+    "serialQuote": 3643,
+    "qouteId": "CXAPA2RC4",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "SOUTHEASTERN FREIGHT LINES",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjlUEV3maXZBmUMFLcaG2o-OzfGJqAiSX8CuBB_fCdpBAjinV5Q&s",
+    "scac": "SEFL",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 4,
+    "className": 150,
+    "pieces": 5,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "650 lb",
+    "transitDays": 3,
+    "status": "Approved",
+    "accesorials": [],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 130.63,
+        "customer": 161.98
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 23.25,
+        "customer": 28.83
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "dateCreate": "12/15/2019",
+    "datePickup": "12/15/2019 01:53 pm",
+    "fromPlace": "Tampa",
+    "fromState": "FL",
+    "fromZip": "33619",
+    "toPlace": "Houston",
+    "toState": "Tx",
+    "toZip": "77077",
+    "serialQuote": 36283,
+    "qouteId": "33488254",
+    "companyContract": "Nupress",
+    "carrierName": "Averit Express",
+    "img": "https://media-exp1.licdn.com/dms/image/C560BAQHTTAIYH0gRcw/company-logo_200_200/0?e=2159024400&v=beta&t=853z1CxEVMJwZrkCG97rvpKE35M-Y19cVLSOct29bwk",
+    "scac": "AVRT",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 4,
+    "className": 125,
+    "pieces": 4,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "700 lb",
+    "transitDays": 2,
+    "status": "Expired",
+    "accesorials": [
+      "Limited Acces Deliveries"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul",
+        "carrier": 285.64,
+        "customer": 357.05
+      },
+      {
+        "name": "Fuel Surcharge",
+        "carrier": 65.13,
+        "customer": 81.41
+      },
+      {
+        "name": "Charge for Non Comercial",
+        "carrier": 85,
+        "customer": 85
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "dateCreate": "10/14/2019",
+    "datePickup": "10/17/2019 01:45 pm",
+    "fromPlace": "Miami",
+    "fromState": "FL",
+    "fromZip": "33101",
+    "toPlace": "Miami",
+    "toState": "FL",
+    "toZip": "33102",
+    "serialQuote": 35022,
+    "qouteId": "091210848",
+    "companyContract": "Smith Transportation",
+    "carrierName": "UPS Freight (s)",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eUXMWjO5h9apQNfv0fKeNTkjM6rQF307y83J9GTPcI4pyv2m&s",
+    "scac": "UPGF",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 6,
+    "className": 110,
+    "pieces": 2,
+    "loadingType": "Type Box",
+    "dimensions": "48x40x60",
+    "weight": "400 lb",
+    "transitDays": 2,
+    "status": "Expired",
+    "accesorials": [
+      "Liftgate Pickup",
+      "Liftgate Delivery"
+    ],
+    "priceDetail": [
+      {
+        "name": "Total Line Haul + Fuel Surcharge",
+        "carrier": 158.27,
+        "customer": 197.84
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "dateCreate": "10/07/19",
+    "datePickup": "10/07/19 3:22 pm",
+    "fromPlace": "Fleming Island",
+    "fromState": "FL",
+    "fromZip": "32003",
+    "toPlace": "New York",
+    "toState": "NY",
+    "toZip": "10005",
+    "serialQuote": 34348,
+    "qouteId": "39283487",
+    "companyContract": "4S Graphics Inc",
+    "carrierName": "Estes express Lines",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6A-Q6kEpn9XDi93VFRlEOMHQE-GOYBrSilHs2n33hZ4x9GYs5w&s",
+    "scac": "EXLA",
+    "userEmail": "smithadmin@smith-cargo.com",
+    "quantity": 6,
+    "className": 120,
+    "pieces": 10,
+    "loadingType": "Pallet",
+    "dimensions": "48x40x60",
+    "weight": "500 lb",
+    "transitDays": 3,
+    "status": "Pending",
+    "accesorials": [
+      "Liftgate Pickup"
+    ],
+    "priceDetail": [
+      {
+        "name": "Charge for: Lift-Gate Service (Pickup)",
+        "carrier": 40,
+        "customer": 49.6
+      },
+      {
+        "name": "Charge for: Fuel Surcharge",
+        "carrier": 29.28,
+        "customer": 36.31
+      },
+      {
+        "name": "Total Line Haul",
+        "carrier": 122,
+        "customer": 151.28
+      }
+    ]
+  }
+]
 }
