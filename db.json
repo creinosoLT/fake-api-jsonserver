@@ -1,47 +1,49 @@
-{
-    "project": {
-        "projectName" : "Damdcm",
-        "owner" : "Juan Toro",
-        "ownerMail" : "jtoro@lean-tech.io",
-        "workspace" : "leantechadmin",
-        "type" : "Internal Project"
-    },
-    "modules" : [
-        {
-            "repository": {
-                "repositoryName" : "dambackend",
-                "repositoryUsername" : "leantech",
-                "repositoryPassword" : "leantech123",
-                "repositoryWorkspace" : "leantechdamdcm"
-            },
-            "languajeCode": "javascript",
-            "moduleDependency" : "",
-            "enviroments": [
-                {
-                    "enviroment": "DEVELOP",
-                    "database": {
-                        "url": "mongo://damdevelopurl",
-                        "username": "damdcmtest",
-                        "password": "dam212"
-                    }
+[
+    "sysadmintest": {
+        "project": {
+            "projectName" : "Damdcm",
+            "owner" : "Juan Toro",
+            "ownerMail" : "jtoro@lean-tech.io",
+            "workspace" : "leantechadmin",
+            "type" : "Internal Project"
+        },
+        "modules" : [
+            {
+                "repository": {
+                    "repositoryName" : "dambackend",
+                    "repositoryUsername" : "leantech",
+                    "repositoryPassword" : "leantech123",
+                    "repositoryWorkspace" : "leantechdamdcm"
                 },
-                {
-                    "enviroment": "STAGE",
-                    "database": {
-                        "url": "mongo://damstagingurl",
-                        "username": "damdcmstage",
-                        "password": "dam212"
+                "languajeCode": "javascript",
+                "moduleDependency" : "",
+                "enviroments": [
+                    {
+                        "enviroment": "DEVELOP",
+                        "database": {
+                            "url": "mongo://damdevelopurl",
+                            "username": "damdcmtest",
+                            "password": "dam212"
+                        }
+                    },
+                    {
+                        "enviroment": "STAGE",
+                        "database": {
+                            "url": "mongo://damstagingurl",
+                            "username": "damdcmstage",
+                            "password": "dam212"
+                        }
+                    },
+                    {
+                        "enviroment": "PRODUCTION",
+                        "database": {
+                            "url": "cluster.027.mongo/dam",
+                            "username": "leantech",
+                            "password": "c0789cd"
+                        }
                     }
-                },
-                {
-                    "enviroment": "PRODUCTION",
-                    "database": {
-                        "url": "cluster.027.mongo/dam",
-                        "username": "leantech",
-                        "password": "c0789cd"
-                    }
-                }
-            ]
-        }
-    ]
-}
+                ]
+            }
+        ]
+    }
+]
